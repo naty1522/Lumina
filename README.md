@@ -1,7 +1,5 @@
 # Lumina
 
-![Logo de Lumina](assets/logo.png)
-
 ## Descripción
 
 **Lumina** es una página web dedicada al descubrimiento y lectura de manhuas. Permite explorar diferentes historias, consultar los últimos capítulos, descubrir contenido según su género y encontrar los manhuas más populares de la semana.
